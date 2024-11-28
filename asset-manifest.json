@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dangthongnghia.github.io/Test_Music/static/css/main.d370c894.css",
+    "main.js": "/dangthongnghia.github.io/Test_Music/static/js/main.34863096.js",
+    "index.html": "/dangthongnghia.github.io/Test_Music/index.html",
+    "main.d370c894.css.map": "/dangthongnghia.github.io/Test_Music/static/css/main.d370c894.css.map",
+    "main.34863096.js.map": "/dangthongnghia.github.io/Test_Music/static/js/main.34863096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d370c894.css",
+    "static/js/main.34863096.js"
+  ]
+}
